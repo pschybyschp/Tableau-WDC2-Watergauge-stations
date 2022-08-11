@@ -7,8 +7,11 @@ The documentation of the data can be accessed using https://www.pegelonline.wsv.
 Its JSON data about the watergauge stations installed in the sea and river landscape of Germany with following structure:
 
 uuid	-     Eindeutige unveränderliche ID         - ID
+
 number	-   Pegelnummer                           - Number of watergauge station
+
 shortname	- Pegelname (max. 40 Zeichen)           - Watergauge name, short
+
 longname -  Pegelname (max. 255 Zeichen)          - Watergauge name, short
 km	-       Flusskilometer                        - km of river
 agency	-   Wasserstraßen- und Schifffahrtsamt    - agency name
