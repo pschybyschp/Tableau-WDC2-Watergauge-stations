@@ -1,0 +1,8 @@
+{
+  "name": "WDC_node_prep",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pschybyschp/Tableau-WDC-Watergauge-stations",
+  "author": "pp",
+  "license": "MIT"
+}
